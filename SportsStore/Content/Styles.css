@@ -28,3 +28,5 @@ DIV.pager { text-align: right; border-top: 2px solid silver;
 DIV.pager A {font-size: 1.1em; color: #667; text-decoration: none; padding: 0 .4em 0 .4em; }
 DIV.pager A:hover {background-color: silver;}
 DIV.pager A.selected {background-color: #353535; color:white; }
+
+DIV.item BUTTON { color:White; background-color: #333; border: 1px solid black; float: right; }
